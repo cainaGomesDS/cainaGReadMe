@@ -7,4 +7,4 @@ Sou estudante de análise e desenvolvimento de sistemas e estou trabalhando atua
 🌱 Constante evolução  
 
 # Tecnologias e ferramentas
-![Logo Kotlin]() Kotlin
+![Logo Kotlin](https://slackmojis.com/emojis/2351-kotlin/download) Kotlin
